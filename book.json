@@ -1,0 +1,6 @@
+{
+  "plugins": ["-lunr", "-search", "search-pro", "disqus"],
+  "variables":{
+    "BASE_URL" :" https://pythonkr.github.io/python-terms"
+  }
+}
