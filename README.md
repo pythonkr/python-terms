@@ -4,6 +4,7 @@
 - 문자통역사분들을 위해 *자주 사용되는 개발용어의 설명*을 함께 적어주세요. 파이썬 초보자를 위한 용어집으로도 활용됩니다. 
 - 맥락에 따라 같이 쓰일 것 같은 용어는 위아래에 줄을 추가해서 적어주셔요. 
 - 파이콘 한국 [영상자막 입력](https://github.com/pythonkr/pyconkr-guide/blob/master/subtitles/00-getting-started.md)과 [자막 스크립트 편집](https://github.com/pythonkr/pyconkr-script)도 기여를 받고 있습니다. 
+- [공식 파이썬 용어집](https://docs.python.org/ko/3/glossary.html#glossary)
 
 |  **분류** | **용어 (대표어)** | **용어 (동의어)** | **발음** | **해설** | **비고** |
 |  :------: | :------ | :------ | :------ | :------ | :------ |
